@@ -7,10 +7,10 @@ module.exports = {
 
     discord: {
         id: "815210279834878003",
-        prefix: 'd!',
+        prefix: '!',
         footer: `© Bot 2021 - ${new Date().getFullYear()}`, 
-        botInvite: "https://discord.com/oauth2/authorize?&client_id=QQQQQQQQQQQQ&scope=applications.commands+bot&permissions=8",
-        serverInvite: "https://discord.gg/QQQQQQQQ",
+        botInvite: "https://discord.com/api/oauth2/authorize?client_id=1109160400089534695&permissions=8&scope=bot",
+        serverInvite: "https://discord.gg/sK9W5tHV",
     },
 
     wordList: `Airplane
